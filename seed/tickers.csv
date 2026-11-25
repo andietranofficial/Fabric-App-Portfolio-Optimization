@@ -1,0 +1,6 @@
+symbol,name,currency,is_benchmark
+AAPL,Apple Inc.,USD,false
+AMD,"Advanced Micro Devices, Inc.",USD,false
+MSFT,Microsoft Corporation,USD,false
+ORCL,Oracle Corporation,USD,false
+SPY,SPDR S&P 500 ETF Trust,USD,true

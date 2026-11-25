@@ -1,0 +1,17 @@
+# ------------------------------------------------------------------
+# Public repo: show only the README, its images, and the seed data.
+# Everything else (app code, specs, scripts, agent files) stays local.
+# Whitelist approach: ignore everything, then re-include what's public.
+# ------------------------------------------------------------------
+/*
+
+!/.gitignore
+!/README.md
+!/seed/
+!/assets/
+
+# Safety net: never publish secrets or local state, even inside allowed folders
+.env*
+*.local
+*.log
+.DS_Store
