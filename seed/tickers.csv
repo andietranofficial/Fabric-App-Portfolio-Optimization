@@ -3,4 +3,10 @@ AAPL,Apple Inc.,USD,false
 AMD,"Advanced Micro Devices, Inc.",USD,false
 MSFT,Microsoft Corporation,USD,false
 ORCL,Oracle Corporation,USD,false
+NVDA,NVIDIA Corporation,USD,false
+AMZN,"Amazon.com, Inc.",USD,false
+GOOGL,Alphabet Inc. (Class A),USD,false
+META,"Meta Platforms, Inc.",USD,false
+TSLA,"Tesla, Inc.",USD,false
+SMSN.IL,"Samsung Electronics Co., Ltd. (London GDR)",USD,false
 SPY,SPDR S&P 500 ETF Trust,USD,true

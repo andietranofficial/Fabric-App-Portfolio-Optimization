@@ -1,5 +1,7 @@
 # Optimo: Portfolio Optimizer on Microsoft Fabric
 
+![Optimo app walkthrough](assets/optimo-walkthrough.gif)
+
 ## Architecture
 
 ```
